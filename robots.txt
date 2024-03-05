@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://moon-terry.github.io/al-folio/sitemap.xml
+Sitemap: https://moon-terry.github.io/sitemap.xml
